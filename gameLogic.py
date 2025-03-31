@@ -3,7 +3,6 @@ import sys
 import bots
 import datetime
 
-
 class GameLogic:
     def __init__(self, gf, players):
         self.CURRENT_PLAYER = 0

@@ -1,7 +1,6 @@
 import pygame
 import sys
 
-
 class StartGUI:
     def __init__(self, font_size, gf):
         self.WHITE = (255, 255, 255)

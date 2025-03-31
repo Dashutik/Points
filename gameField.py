@@ -1,6 +1,5 @@
 import pygame as pg
 
-
 class GameField:
     def __init__(self, grid_size, count_players):
         pg.init()  # Инициализация Pygame
